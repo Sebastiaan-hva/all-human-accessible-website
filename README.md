@@ -1,25 +1,16 @@
-# Accessible Website
+De opdracht van deze sprint was voor Triple voor het Mediahuis de programma pagina redesignen.
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
+**link site: https://sebastiaan-hva.github.io/all-human-accessible-website/**
 
-De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
 
-## Inhoudsopgave
+Deze sprint ben ik bezig geweest met een nieuw desktop design met programma's naast elkaar. 
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-## Bronnen
+Er is een navigatie om naar andere pagina's te gaan en een navigatie om van dag te wisselen.
+Er zijn cards die het programma weergeven. Verder zijn er nog hover-effects.
 
-## Licentie
-This project is licensed under the terms of the [MIT license](./LICENSE).
+
+
+Ik heb voor deze sprint alleen HTML/CSS gebruikt voor deze opdracht.
